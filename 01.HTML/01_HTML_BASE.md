@@ -105,7 +105,7 @@ HTML 내에서 문단을 표시할 때 사용하는 태그는 `<p>`태그이다.
   Aenean        commodo
 </p>
 ```
-![p_tag_show](src/p_tag.png)
+![p_tag_show](src/p_tag.PNG)
 
 만약 태그 내에 작성한 그대로 표현하고 싶다면, `<pre>`태그를 사용해야한다. `<pre>`는 작성한 내용 그대로 웹 브라우저에 나타난다.
 ```html
@@ -118,7 +118,7 @@ HTML 내에서 문단을 표시할 때 사용하는 태그는 `<p>`태그이다.
   Aenean        commodo
 </pre>
 ```
-![pre_tag_show](src/pre_tag.png)
+![pre_tag_show](src/pre_tag.PNG)
 
 내용을 구분할 때, 사용할 수 있는 수평 가로 구분선 태그는 `<hr>`태그이다. 이는 빈태그로, 닫는 태그가 없이 사용한다.
 ```html
@@ -126,7 +126,7 @@ HTML 내에서 문단을 표시할 때 사용하는 태그는 `<p>`태그이다.
 <hr>
 <p>HTML</p>
 ```
-![hr_tag_show](src/hr_tag.png)
+![hr_tag_show](src/hr_tag.PNG)
 
 #### 텍스트 서식
 
@@ -137,5 +137,5 @@ HTML 내에서 문단을 표시할 때 사용하는 태그는 `<p>`태그이다.
 <p><b>HTML</b></p>
 <p><strong>Let's study!</strong></p>
 ```
-![strong_b_tag_show](src/strong_b_tag.png)
+![strong_b_tag_show](src/strong_b_tag.PNG)
 
